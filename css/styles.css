@@ -1,0 +1,11 @@
+/* banner */
+.banner__img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto;
+    background-size: cover;
+    background-position: center;
+    background-color: #a52a2a30;
+    background-image: url("../img/face_mi.jpg");
+}
